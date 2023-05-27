@@ -9,9 +9,11 @@
 ### 1.3 Reinforcement Learning
 
 
-
 ## 2.Vision
     
+    ### 2.1 Paper
+
+        - Taming Transformers for High-Resolution Image Synthesis (VQ-GAN)
 
 ## 3.Natural Laugange Processing
 
@@ -22,6 +24,12 @@
         - 2304.09797 Progressive-Hint Prompting Improves Reasoning in Large Language Models
 
 
+    ### 3.2 Code
+
+        - https://github.com/THUDM/ChatGLM-6B
+
+        - https://github.com/facebookresearch/llama
+
 ## 4.Audio 
 
 
@@ -31,28 +39,21 @@
     
         - 2304.12995 AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 
-        Music
-
         - *2301.11325 MusicLM: Generating Music From Text
         > https://google-research.github.io/seanet/musiclm/examples/
 
 
     ### 4.3 Baseline
 
-
         Music:
 
-        - Jukebox
+        - https://github.com/openai/jukebox (Jukebox)
 
-            https://github.com/openai/jukebox
+        - https://github.com/magenta/magenta (Magenta)
 
-        - Magenta
+        - https://github.com/akanametov/musegan (MuseGAN)
 
-            https://github.com/magenta/magenta
-
-        - MuseGAN
-
-            https://github.com/akanametov/musegan
+        - https://github.com/svc-develop-team/so-vits-svc (SoVITS 4.0)
 
 
 ## 5.Multi-Media
@@ -63,4 +64,9 @@ Image-To-Text
 
         - 2304.09172 Hyperbolic Image-Text Representations
 
+## 6.AI_Biomedical
+
+    - https://github.com/cambridgeltl/visual-med-alpaca
+
+    - https://github.com/WangRongsheng/XrayGLM
   
