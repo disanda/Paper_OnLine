@@ -39,6 +39,8 @@
 
     ### 3.1 Paper
 
+        - 1904.10509 Generating Long Sequences with Sparse Transformers
+
         - 2303.08774 GPT-4 Technical Report
 
         - 2304.09797 Progressive-Hint Prompting Improves Reasoning in Large Language Models
